@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @krtScrtr004
+- 👀 I’m interested in
+  - 🧑‍💻 Programming
+  - 🎶 Music
+  - 🚴‍♂️ Biking
+  - 🎮 Gaming
+- 🌱 I’m currently learning ...
+  - 💻 Web Development
+  - 🏍️ Motorcycling
