@@ -7,3 +7,8 @@
 - 🌱 I’m currently learning ...
   - 💻 Web Development
   - 🏍️ Motorcycling
+- I programm in...
+  - C / C++
+  - Java
+  - HTML, CSS, Javascript
+  - PHP
