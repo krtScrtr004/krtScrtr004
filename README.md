@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @krtScrtr004</h1>
-<h3 align="center">A enthusiastic backend-developer from PH.</h3>
+<h3 align="center">A enthusiastic fullstack developer from PH.</h3>
 
 - 🌱 I’m currently learning **Backend development - PHP & Laravel**
 
